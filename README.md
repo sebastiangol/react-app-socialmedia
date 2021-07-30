@@ -1,5 +1,6 @@
 # react-app-socialmedia
- A social media single-page application using React, Redux and Firebase. Allows registering account, logging in with a registered account, and creating posts.
+ A social media single-page application using React, Redux and Firebase. Based on Linkedin.
+ Allows registering account, logging in with a registered account, and creating posts.
  
  React used to create the main application. 
  Redux used to manage logins/logouts and authentication. 
