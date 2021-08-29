@@ -3,7 +3,7 @@
 
 A pre-existing account -> Email: dave@gmail.com, Password: davedave
  
- A social media single-page application using React, Redux and Firebase. Based on Linkedin.
+ A social media single-page application using React, Redux, Material-UI and Firebase. Based on Linkedin.
  Allows registering account, logging in with a registered account, and creating posts.
  
  React is used to create the main application. 
