@@ -17,5 +17,4 @@ A pre-existing account -> Email: dave@gmail.com, Password: davedave
  When logging in, the application will retrieve all the posts that are stored in the firestore database, and display them in the feed.
  
  The user can make a post by typing something into the input field at the top of the feed, and pressing enter. The post will be added to the Firebase post database, and will display at the top of the feed.
- 
- Deployed using Firebase: https://react-app-socialmedia.web.app/
+
