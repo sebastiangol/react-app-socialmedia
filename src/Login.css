@@ -3,8 +3,7 @@
   place-items: center;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 70px;
-  padding-bottom: 100px;
+  padding-bottom: 75px;
 }
 
 .login > img {
@@ -44,6 +43,22 @@
   cursor: pointer;
 }
 
-.login > p {
+.login__p {
   margin-top: 20px;
 }
+
+.login__guest {
+  background-color: #d200d2;
+  border-radius: 10px;
+  padding: 4px;
+  border: 1px solid black;
+  box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.2);
+  font-weight: 900;
+  margin-top: 5px;
+}
+
+.login__guest:hover {
+  background-color: #e000e0;
+ }
+
+.login__guest > p {display: flex; }

@@ -90,12 +90,17 @@ function Login() {
         </button>
       </form>
 
-      <p>
+      <p className="login__p">
         No account?{' '}
         <span className="login__register" onClick={register}>
           Register Here
         </span>
       </p>
+      <p>Don't want to?</p>
+      <div className="login__guest">
+      <p>Email:{' '} guest@gmail.com</p>
+      <p>Password:{' '} guestguest</p>
+      </div>
     </div>
   );
 }
